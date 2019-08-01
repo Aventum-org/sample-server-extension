@@ -1,0 +1,15 @@
+{
+  "name": "@aventum/sample-server-extension",
+  "version": "1.0.0",
+  "description": "Example of Aventum server extension.",
+  "main": "aventum-sample-server-extension.js",
+  "scripts": {},
+  "author": "Mohammed Al-Mahdawi",
+  "license": "MIT",
+  "aventum": {
+    "target": "server"
+  },
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
