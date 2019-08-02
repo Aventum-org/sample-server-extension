@@ -1,14 +1,26 @@
 {
   "name": "@aventum/sample-server-extension",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Example of Aventum server extension.",
   "main": "aventum-sample-server-extension.js",
   "scripts": {},
-  "author": "Mohammed Al-Mahdawi",
+  "author": {
+    "name": "Mohammed Al-Mahdawi",
+    "email": "mohammed@al-mahdawi.com",
+    "url": "https://al-mahdawi.com"
+  },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aventum-org/sample-server-extension"
+  },
   "aventum": {
     "target": "server"
   },
+  "keywords": [
+    "aventum",
+    "aventum-extension"
+  ],
   "dependencies": {
     "uuid": "^3.3.2"
   }
