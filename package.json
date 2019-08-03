@@ -1,6 +1,6 @@
 {
   "name": "@aventum/sample-server-extension",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Example of Aventum server extension.",
   "main": "aventum-sample-server-extension.js",
   "scripts": {},
@@ -19,7 +19,8 @@
   },
   "keywords": [
     "aventum",
-    "aventum-extension"
+    "aventum-extension",
+    "aventum-server-extension"
   ],
   "dependencies": {
     "uuid": "^3.3.2"
