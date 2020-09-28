@@ -2,7 +2,7 @@
   "name": "@aventum/sample-server-extension",
   "version": "1.0.3",
   "description": "Example of Aventum server extension.",
-  "main": "aventum-sample-server-extension.js",
+  "main": "index.js",
   "scripts": {},
   "author": {
     "name": "Mohammed Al-Mahdawi",
